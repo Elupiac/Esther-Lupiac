@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  background-color: #F7F5E4;
+  background-color: #f7f5e4;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,7 +12,7 @@ body {
   position: fixed;
   width: 40%;
   height: 100%;
-  background-color: #5C81D7;
+  background-color: #5c81d7;
   justify-content: space-between;
   align-items: center;
   border-right: solid 10px #332e3c;
@@ -37,7 +37,7 @@ body {
 
 .navbar--container h3 {
   font-size: 1.5rem;
-  color: #BFD4F0;
+  color: #bfd4f0;
   text-align: center;
 }
 
@@ -58,7 +58,7 @@ body {
 
 .navbar--option P:hover {
   transform: scale(1.15);
-  color: #2C3A6F;
+  color: #2c3a6f;
 }
 
 @media screen and (max-width: 820px) {
@@ -145,13 +145,13 @@ body {
   width: 60%;
   height: 120px;
   position: fixed;
-  background-color: #D95E6A;
+  background-color: #d95e6a;
   border-bottom: solid 10px #332e3c;
   border-left: solid 10px #332e3c;
 }
 
 .titular--container h1 {
-  color: #FAD3DA;
+  color: #fad3da;
   font-size: 4rem;
   text-align: left;
   margin-bottom: 10px;
@@ -185,7 +185,7 @@ body {
   flex-direction: column;
   margin-left: 40%;
   width: 60%;
-  background-color: #F7F5E4;
+  background-color: #f7f5e4;
   text-align: center;
 }
 
@@ -200,7 +200,7 @@ body {
     flex-direction: column;
     width: 100%;
     margin: 0;
-    background-color: #F7F5E4;
+    background-color: #f7f5e4;
     text-align: center;
   }
 }
@@ -217,7 +217,7 @@ body {
 }
 
 .art--section {
-  background-color: #F7F5E4;
+  background-color: #f7f5e4;
   display: flex;
 }
 
@@ -393,9 +393,8 @@ body {
 
 .contacto--conteiner a:hover {
   transform: scale(1.15);
-  color: #A08B58;
+  color: #a08b58;
 }
-
 
 .contacto--conteiner i {
   font-size: 2rem;
@@ -406,13 +405,12 @@ body {
 
 .contacto--conteiner i:hover {
   transform: scale(1.15);
-  color: #A08B58;
+  color: #a08b58;
 }
 
 .contacto--conteiner h2 {
   color: #332e3c;
 }
-
 
 @media screen and (max-width: 820px) {
   .contacto--conteiner {
@@ -437,6 +435,6 @@ footer {
     display: flex;
     width: 100%;
     justify-content: center;
-    color: #CEB990;
+    color: #ceb990;
   }
 }
